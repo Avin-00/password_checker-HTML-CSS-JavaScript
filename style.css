@@ -8,8 +8,17 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
-    background-image: url(./abstract-bg-blue.png);
+    background-image: url(./—Pngtree—chinese\ wave\ red\ background\ with_13431643.png);
     background-size: cover;
+  }
+ 
+  .svg{
+    height: 50px;
+    width: 50px;
+ margin-top: 30px;
+    margin-bottom: 10px;
+    
+    
   }
   
   .container {
